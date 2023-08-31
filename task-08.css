@@ -1,0 +1,64 @@
+.allcard{
+    max-width: 1000px;
+    margin-inline: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.cardone{
+    width: 320px;
+    height: 200px;
+    background-color: #8e44ad;
+    box-sizing: border-box;
+    margin: 10px;
+    border-radius: 10px;
+}
+#simimg{
+    width: 50px;
+    margin: 30px 0 0 10px;
+}
+.cardnumber{
+    font-size: 25px;
+    color: white;
+    margin: 0 0 0 13px;
+    font-family: 'Courier New';
+}
+.cardname{
+    font-size: 20px;
+    color: white;
+    margin: 0 0 0 13px;
+    font-family: monospace;
+}
+.visa{
+    margin: -35px 0 0 15px; 
+    color: rgb(255, 255, 255);
+}
+#visaimg{
+    width: 110px;
+    margin: 5px 0 0 200px;
+}
+.cardtwo{
+    width: 320px;
+    height: 200px;
+    background-color: #009432;
+    box-sizing: border-box;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.cardthree{
+    width: 320px;
+    height: 200px;
+    background-color: #0652DD;
+    box-sizing: border-box;
+    margin: 10px;
+    border-radius: 10px;
+}
+.cardfor{
+    width: 320px;
+    height: 200px;
+    background-color: #161617;
+    box-sizing: border-box;
+    margin: 10px;
+    border-radius: 10px;
+}
